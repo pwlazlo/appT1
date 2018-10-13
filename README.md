@@ -1,2 +1,2 @@
 # appT1
-aplikacja testowa
+aplikacja testowa jest OK
